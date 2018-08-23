@@ -11,6 +11,4 @@
 int main(int argc, char **argv) {
 
   printf("\nDaniel Pankey\nComputer Science.\n");
-
-  return 0;
-}
+  printf("\nRichard Kolodziej computer science\n")
